@@ -1,0 +1,17 @@
+{
+    "name": "composer/app",
+    "autoload": {
+        "psr-4": {
+            "Composer\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "htetthu00",
+            "email": "prohtet20@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.66"
+    }
+}
